@@ -40,7 +40,7 @@ h2 {
     font-family: 'Raleway';
     letter-spacing: 1px;
     animation: fadeIn 1s ease-in-out;
-    margin-left: 20px;
+    margin-left: 14px;
 }
 
 @keyframes fadeIn {
